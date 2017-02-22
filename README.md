@@ -11,3 +11,7 @@
 `p(6)` will return `0` (falsy)
 
 `p(7)` will return `7` (truthy)
+
+
+### PS:
+It's not a best algorythm but one of shortest and ugliest
