@@ -14,4 +14,4 @@
 
 
 ### PS:
-It's not a best algorithm but one of shortest and ugliest
+It's not a best algorithm but shortest and ugliest I made :3
